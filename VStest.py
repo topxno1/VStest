@@ -1,0 +1,3 @@
+#VStest
+
+print("VStest ok")
